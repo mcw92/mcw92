@@ -2,7 +2,7 @@
 
 [![Xing](https://img.shields.io/badge/xing-%230077B5.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Marie_Weiel/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marie.weiel@gmail.com)
 
-I'm a physicist and AI researcher from Karlsruhe, Germany. 
+I'm a physicist and AI researcher from Karlsruhe, Germany.  
 Check out my pinned repositories below for some of the work I've done :rocket:.
 
 ### Things I work with
