@@ -5,7 +5,7 @@
 I'm a physicist and AI researcher from Karlsruhe, Germany.  
 Check out my pinned repositories below for some of the work I've done :rocket:.
 
-### Things I work with
+### :construction: Things I work with
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -20,9 +20,35 @@ Check out my pinned repositories below for some of the work I've done :rocket:.
 ![Linux](https://img.shields.io/badge/Linux-EE0000?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Things I enjoy
+### :heart_decoration: Things I enjoy
 - High-performance computing
 - Parallel programming with MPI in Python
 - Sound RSE practices
 - Team work
 - Teaching
+
+### :chart_with_upwards_trend: My GitHub Stats 
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=mcw92&show_icons=true&theme=gruvbox&count_private=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mcw92&show_icons=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=mcw92&show_icons=true&count_private=true" />
+</picture>
+&nbsp
+<picture>
+  <source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mcw92&layout=compact&theme=gruvbox&hide=jupyter%20notebook"
+  media="(prefers-color-scheme: dark)"
+/>
+  <source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mcw92&layout=compact&hide=jupyter%20notebook"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcw92&layout=compact&hide=jupyter%20notebook" />
+</picture>
