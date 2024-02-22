@@ -27,6 +27,11 @@ Check out my pinned repositories below for some of the work I've done :rocket:.
 - Team work
 - Teaching
 
+### :sparkles: Things I am proud of
+
+- :dna: `Propulate`, our [HPC-adapted population-based optimizer](https://propulate.readthedocs.io/en/latest/)
+- :fish: `FLAPS`, my dynamic particle swarm optimizer published in [Nature Machine Intelligence](https://rdcu.be/dzjyu)
+
 ### :chart_with_upwards_trend: My GitHub Stats 
 
 <picture>
